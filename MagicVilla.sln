@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicVilla_VillaAPI", "MagicVilla_VillaAPI\MagicVilla_VillaAPI.csproj", "{AB57144C-0407-48A9-A0F8-DB448543FCDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MagicVilla_VillaAPI", "MagicVilla_VillaAPI\MagicVilla_VillaAPI.csproj", "{AB57144C-0407-48A9-A0F8-DB448543FCDA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MagicVilla_Web", "MagicVilla_Web\MagicVilla_Web.csproj", "{7E63FE83-849F-45AC-8426-99A698CEB5CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicVilla_Utility", "MagicVilla_Utility\MagicVilla_Utility.csproj", "{AA913AAB-2388-4D5F-ABE4-46027C2E2AAD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{AB57144C-0407-48A9-A0F8-DB448543FCDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB57144C-0407-48A9-A0F8-DB448543FCDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB57144C-0407-48A9-A0F8-DB448543FCDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E63FE83-849F-45AC-8426-99A698CEB5CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E63FE83-849F-45AC-8426-99A698CEB5CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E63FE83-849F-45AC-8426-99A698CEB5CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E63FE83-849F-45AC-8426-99A698CEB5CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA913AAB-2388-4D5F-ABE4-46027C2E2AAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA913AAB-2388-4D5F-ABE4-46027C2E2AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA913AAB-2388-4D5F-ABE4-46027C2E2AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA913AAB-2388-4D5F-ABE4-46027C2E2AAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
